@@ -1,0 +1,13 @@
+#dict {
+    display: none;
+}
+
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+span {
+    background-color: yellow;
+    color: #000000;
+}
